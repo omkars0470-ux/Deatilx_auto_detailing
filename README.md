@@ -21,3 +21,5 @@
 
 </body>
 </html>
+
+<img src="logo.png" width="150">
