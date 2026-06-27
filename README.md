@@ -23,3 +23,8 @@
 </html>
 
 <img src="logo.png" width="150">
+<h2>Our Work</h2>
+
+<img src="car1.jpg" width="200">
+<img src="car2.jpg" width="200">
+<img src="car3.jpg" width="200">
